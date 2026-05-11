@@ -1,3 +1,0 @@
-/home/cyf/app_demo/project_demo/build/CMakeFiles/app_exe.dir
-/home/cyf/app_demo/project_demo/build/CMakeFiles/edit_cache.dir
-/home/cyf/app_demo/project_demo/build/CMakeFiles/rebuild_cache.dir

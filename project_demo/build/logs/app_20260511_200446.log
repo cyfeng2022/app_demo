@@ -1,4 +1,0 @@
-[2026-05-11 20:04:46.289] [async] [info] === MQTT Client Test Program Started ===
-[2026-05-11 20:04:46.290] [async] [info] [MQTT] Connecting to tcp://tcp://localhost:1883 with client_id: demo_client
-[2026-05-11 20:04:46.291] [async] [error] [MQTT] Connection failed: mqtt exception: MQTT error [-1]
-[2026-05-11 20:04:46.393] [async] [info] === Program Exited with code: 0 ===
