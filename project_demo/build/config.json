@@ -1,0 +1,26 @@
+{
+  "mqtt": {
+    "broker": "tcp://localhost:1883",
+    "client_id": "demo_client",
+    "username": "",
+    "password": "",
+    "keep_alive_interval": 60,
+    "timeout": 10000
+  },
+  "uart": {
+    "port": "/dev/ttyS0",
+    "baud_rate": 115200,
+    "data_bits": 8,
+    "stop_bits": 1,
+    "parity": "none"
+  },
+  "logger": {
+    "level": "debug",
+    "console_output": true,
+    "file_output": true,
+    "log_path": "./logs",
+    "log_name": "app",
+    "max_file_size_mb": 10,
+    "max_files": 3
+  }
+}

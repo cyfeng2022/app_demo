@@ -1,0 +1,11 @@
+prefix=/home/cyf/app_demo/project_demo/lib_aarch64
+exec_prefix=/home/cyf/app_demo/project_demo/lib_aarch64
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: jsoncpp
+Description: A C++ library for interacting with JSON
+Version: 1.9.8
+URL: https://github.com/open-source-parsers/jsoncpp
+Libs: -L${libdir} -ljsoncpp
+Cflags: -I${includedir}
